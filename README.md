@@ -59,6 +59,6 @@ The Football Strategy Analysis project focuses on analyzing such as <b>Squad and
 <hr>
 
 # Dashboard
- <a href="[2021-2022 Football Player Stats (1).csv](https://github.com/user-attachments/files/17189621/2021-2022.Football.Player.Stats.1.csv)
+ <a href="https://github.com/Aarthi-1301/-FOOTBALL-STRATEGY-DASHBOARD/blob/main/2021-2022%20Football%20Player%20Stats%20(1).csv
 ">Click to view <b>Dataset</b></a>
 ![Screenshot (30)](https://github.com/user-attachments/assets/59cea2c1-d371-4a45-90e2-f3ecbf50ba55)
