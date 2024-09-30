@@ -15,6 +15,7 @@ The Football Strategy Analysis project focuses on analyzing such as <b>Squad and
   <li><b>Dashboard:</b>The interactive dashboard visualizes player data to help scouts and analysts make data-driven decisions.</li>
 </ol>
 <hr>
+
 # 🛠 Data Cleaning & Preparation
 <b>Steps Involved:</b>
 <ol type="1">
@@ -58,5 +59,6 @@ The Football Strategy Analysis project focuses on analyzing such as <b>Squad and
 <hr>
 
 # Dashboard
-// <a href="">Click to view <b>Dataset</b></a>
+// <a href="[2021-2022 Football Player Stats (1).csv](https://github.com/user-attachments/files/17189621/2021-2022.Football.Player.Stats.1.csv)
+">Click to view <b>Dataset</b></a>
 ![Screenshot (30)](https://github.com/user-attachments/assets/59cea2c1-d371-4a45-90e2-f3ecbf50ba55)
